@@ -1,0 +1,23 @@
+{
+  "name": "markdown-app",
+  "version": "1.0.0",
+  "description": "An app that allows users to view markdown output in the web browser. Built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgreenidge/markdown-app.git"
+  },
+  "author": "Tisha Greenidge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgreenidge/markdown-app/issues"
+  },
+  "homepage": "https://github.com/tgreenidge/markdown-app#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
